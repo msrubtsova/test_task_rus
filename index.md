@@ -1,4 +1,4 @@
-# Как импортировать один профиль клиента в базу данных Altkraft Marketing через Postman
+# Импорт данных через Postman в Altcraft Marketing
 
 ## [Задача](https://github.com/altkraft/for-applicants/blob/master/t.writer/postman/task.md)
 
