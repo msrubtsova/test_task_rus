@@ -85,7 +85,7 @@ pm.globals.set("CurrentDateSub20Yrs", moment().subtract(20, 'years').format())
 
 В [документации](https://guides.altcraft.com/developer-guide/api-interaction#id-ВзаимодействиесAPI-Кодыответа) отсутствует описание кода ошибки 440.
 
-
+[//]: # (Это комментарий, он не будет отображаться)
 You can use the [editor on GitHub](https://github.com/msrubtsova/test_task/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
